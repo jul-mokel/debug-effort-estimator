@@ -1,0 +1,31 @@
+error_message,error_type,language,file_type,line_number,time_to_fix,effort_level
+SyntaxError: invalid syntax,Syntax,Python,.py,12,5,Low
+IndentationError: unexpected indent,Syntax,Python,.py,8,7,Low
+ModuleNotFoundError: No module named 'numpy',Import,Python,.py,3,15,Medium
+TypeError: unsupported operand type(s),Runtime,Python,.py,45,25,Medium
+KeyError: 'user_id',Runtime,Python,.py,67,18,Medium
+IndexError: list index out of range,Runtime,Python,.py,89,22,Medium
+ValueError: could not convert string to float,Runtime,Python,.py,33,20,Medium
+NameError: name 'x' is not defined,Runtime,Python,.py,10,6,Low
+AttributeError: 'NoneType' object has no attribute,Runtime,Python,.py,120,40,High
+RecursionError: maximum recursion depth exceeded,Runtime,Python,.py,200,55,High
+ImportError: cannot import name 'read_csv',Import,Python,.py,5,12,Medium
+ZeroDivisionError: division by zero,Runtime,Python,.py,76,8,Low
+MemoryError,Runtime,Python,.py,340,60,High
+FileNotFoundError: data.csv not found,IO,Python,.py,2,10,Low
+TypeError: missing required argument,Runtime,Python,.py,58,17,Medium
+TypeError: unsupported operand type for +,Runtime,Python,.py,52,18,Medium
+TypeError: unsupported operand type for -,Runtime,Python,.py,60,20,Medium
+ValueError: invalid literal for int(),Runtime,Python,.py,41,12,Medium
+KeyError: missing key in dictionary,Runtime,Python,.py,77,16,Medium
+IndexError: tuple index out of range,Runtime,Python,.py,94,22,Medium
+AttributeError: object has no attribute 'append',Runtime,Python,.py,110,35,High
+AttributeError: NoneType has no attribute 'split',Runtime,Python,.py,134,42,High
+RecursionError: stack overflow,Runtime,Python,.py,210,55,High
+MemoryError: unable to allocate array,Runtime,Python,.py,305,65,High
+ImportError: cannot import name 'DataFrame',Import,Python,.py,6,14,Medium
+FileNotFoundError: config.yaml not found,IO,Python,.py,4,9,Low
+ZeroDivisionError: division by zero,Runtime,Python,.py,88,6,Low
+SyntaxError: unexpected EOF while parsing,Syntax,Python,.py,15,7,Low
+IndentationError: unindent does not match any outer indentation,Syntax,Python,.py,22,8,Low
+NameError: global name not defined,Runtime,Python,.py,31,9,Low
